@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "330123273128",
+    "firebase_url": "https://nmecomerce-default-rtdb.firebaseio.com",
+    "project_id": "nmecomerce",
+    "storage_bucket": "nmecomerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330123273128:android:35c13e590b76af3c4b739d",
+        "android_client_info": {
+          "package_name": "com.example.chamcong_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330123273128-imhi22tfmnc7hg4820uba5l608hon1qs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWhaj2yVQqgdksY0kJ9oD_1fquqyAmPNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330123273128-imhi22tfmnc7hg4820uba5l608hon1qs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
